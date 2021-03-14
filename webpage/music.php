@@ -5,6 +5,11 @@
     <title>Music Viewer</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
     <link href="viewer.css" type="text/css" rel="stylesheet" />
+
+<!--    Student ID: U1810038-->
+<!--    Student Name: Abdullaev Jaloliddin-->
+<!--    Section Number: 001-->
+
 </head>
 <body>
 <div id="header">
